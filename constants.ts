@@ -11,19 +11,19 @@ export const skills: Skill[] = [
 ];
 
 export const instagramPosts: PortfolioItem[] = [
-  { id: 1, imageUrl: '/public/Assets/jp1.jpg', caption: 'Social Media Graphic Design' },
-  { id: 2, imageUrl: '/public/Assets/jp2.jpg', caption: 'Promotional Ad Campaign' },
-  { id: 3, imageUrl: '/public/Assets/jp3.jpg', caption: 'Creative Brand Illustration' },
-  { id: 4, imageUrl: '/public/Assets/jp4.jpg', caption: 'Promotional Poster Design' },
-  { id: 5, imageUrl: '/public/Assets/jp5.jpg', caption: 'Engaging Post for Socials' },
-  { id: 6, imageUrl: '/public/Assets/jp6.jpg', caption: 'Marketing Material Layout' },
+  { id: 1, imageUrl: '/Assets/jp1.jpg', caption: 'Social Media Graphic Design' },
+  { id: 2, imageUrl: '/Assets/jp2.jpg', caption: 'Promotional Ad Campaign' },
+  { id: 3, imageUrl: '/Assets/jp3.jpg', caption: 'Creative Brand Illustration' },
+  { id: 4, imageUrl: '/Assets/jp4.jpg', caption: 'Promotional Poster Design' },
+  { id: 5, imageUrl: '/Assets/jp5.jpg', caption: 'Engaging Post for Socials' },
+  { id: 6, imageUrl: '/Assets/jp6.jpg', caption: 'Marketing Material Layout' },
 ];
 
 export const videoReels: ReelItem[] = [
-    { id: 1, thumbUrl: '/public/Assets/jr1_thumb.png', videoUrl: '/public/Assets/jr1.mp4' },
-    { id: 2, thumbUrl: '/public/Assets/jr2_thumb.png', videoUrl: '/public/Assets/jr2.mp4' },
-    { id: 3, thumbUrl: '/public/Assets/jr3_thumb.png', videoUrl: '/public/Assets/jr3.mp4' },
-    { id: 4, thumbUrl: '/public/Assets/jr4_thumb.png', videoUrl: '/public/Assets/jr4.mp4' },
+    { id: 1, thumbUrl: '/Assets/jr1_thumb.png', videoUrl: '/Assets/jr1.mp4' },
+    { id: 2, thumbUrl: '/Assets/jr2_thumb.png', videoUrl: '/Assets/jr2.mp4' },
+    { id: 3, thumbUrl: '/Assets/jr3_thumb.png', videoUrl: '/Assets/jr3.mp4' },
+    { id: 4, thumbUrl: '/Assets/jr4_thumb.png', videoUrl: '/Assets/jr4.mp4' },
 ];
 
 
