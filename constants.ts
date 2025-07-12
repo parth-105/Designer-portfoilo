@@ -20,10 +20,10 @@ export const instagramPosts: PortfolioItem[] = [
 ];
 
 export const videoReels: ReelItem[] = [
-    { id: 1, thumbUrl: '/Assets/jr1_thumb.png', videoUrl: '/Assets/jr1.mp4', instagramUrl: 'https://www.instagram.com/reel/DL6ot2bs-QG/?igsh=dnc1NmJ4d2h6eDho' },
-    { id: 2, thumbUrl: '/Assets/jr2_thumb.png', videoUrl: '/Assets/jr2.mp4', instagramUrl: 'https://www.instagram.com/reel/DJn2hChPFfi/?igsh=MXA4N3p5YWpyMjB5dw==' },
-    { id: 3, thumbUrl: '/Assets/jr3_thumb.png', videoUrl: '/Assets/jr3.mp4', instagramUrl: 'https://www.instagram.com/reel/DG2mSNovIca/?igsh=MXdlMzN2NGd2aDA3eA==' },
-    { id: 4, thumbUrl: '/Assets/jr4_thumb.png', videoUrl: '/Assets/jr4.mp4', instagramUrl: 'https://www.instagram.com/reel/DLZPUk9R87F/?igsh=MW53ZzlsNmphazg5NA==' },
+    { id: 1, thumbUrl: '/Assets/jr1_thumb.png', videoUrl: '/Assets/jr1.mp4', instagramUrl: 'https://www.instagram.com/reel/DL6ot2bs-QG/' },
+    { id: 2, thumbUrl: '/Assets/jr2_thumb.png', videoUrl: '/Assets/jr2.mp4', instagramUrl: 'https://www.instagram.com/reel/DJn2hChPFfi/' },
+    { id: 3, thumbUrl: '/Assets/jr3_thumb.png', videoUrl: '/Assets/jr3.mp4', instagramUrl: 'https://www.instagram.com/reel/DG2mSNovIca/' },
+    { id: 4, thumbUrl: '/Assets/jr4_thumb.png', videoUrl: '/Assets/jr4.mp4', instagramUrl: 'https://www.instagram.com/reel/DLZPUk9R87F/' },
 ];
 
 export const socialLinks: SocialLink[] = [
