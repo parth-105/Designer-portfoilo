@@ -14,6 +14,7 @@ export interface ReelItem {
     id: number;
     thumbUrl: string;
     videoUrl: string;
+    instagramUrl: string;
 }
 
 export interface SocialLink {
